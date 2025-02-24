@@ -1,5 +1,5 @@
 import React from 'react';
-import SliderComponent from "src/components/sliderComponent/SliderComponent.js";
+import SliderComponent from "../../components/sliderComponent/SliderComponent.jsx";
 
 const MainPage = () => {
     return (

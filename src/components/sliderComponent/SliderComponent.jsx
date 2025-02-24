@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { fetchSliderData } from "./store";
+import { fetchSliderData } from "../../store/store.js";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 
