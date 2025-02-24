@@ -1,13 +1,13 @@
 import {Route, Router, Routes} from "react-router-dom";
 import {store} from "./store/store.js";
 import {Provider} from "react-redux";
-import MainPage from "./pages/mainPage/MainPage.js";
+import MainPage from "./pages/mainPage/MainPage.jsx";
 import Layout from "./components/layout/Layout.jsx";
-import SecondPage from "./pages/secondPage/SecondPage.js";
-import ThirdPage from "./pages/thirdPage/ThirdPage.js";
-import FourthPage from "./pages/fourthPage/FourthPage.js";
-import FifthPage from "./pages/fifthPage/FifthPage.js";
-import FirstPage from "./pages/firstPage/FirstPage.js";
+import SecondPage from "./pages/secondPage/SecondPage.jsx";
+import ThirdPage from "./pages/thirdPage/ThirdPage.jsx";
+import FourthPage from "./pages/fourthPage/FourthPage.jsx";
+import FifthPage from "./pages/fifthPage/FifthPage.jsx";
+import FirstPage from "./pages/firstPage/FirstPage.jsx";
 
 
 
